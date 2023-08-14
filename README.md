@@ -1,8 +1,3 @@
-z
-
-<!--
-**KDSCRIPT/KDSCRIPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">THIS IS...... DARSHAN</h1>
 <h3 align="center">A 3rd Year B.Tech CSE student from VIT CHENNAI</h3>
 
@@ -26,4 +21,3 @@ z
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kdscript&show_icons=true&locale=en" alt="kdscript" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kdscript&" alt="kdscript" /></p>
-

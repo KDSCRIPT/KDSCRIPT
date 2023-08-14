@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **Flutter and Quantum Computing**
 
 - ⚡ Fun fact **I am an aspiring Mentalist**
+
+I learn from:
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
 

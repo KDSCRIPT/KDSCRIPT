@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdscript&label=Profile%20views&color=0e75b6&style=flat" alt="kdscript" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kdscript" alt="kdscript" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter and Quantum Computing**
 
 - ⚡ Fun fact **I am an aspiring Mentalist**

@@ -1,5 +1,5 @@
 <h1 align="center">THIS IS...... DARSHAN</h1>
-<h3 align="center">A 3rd Year B.Tech CSE student from VIT CHENNAI</h3>
+<h3 align="center">A 4th Year B.Tech CSE student from VIT CHENNAI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdscript&label=Profile%20views&color=0e75b6&style=flat" alt="kdscript" /> </p>
 

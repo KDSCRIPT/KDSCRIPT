@@ -6,7 +6,7 @@
 ## About Me
 - Software Engineer 1 at FIS  
 - Focused on **Backend Systems & DevOps**  
-- Currently learning **Terraform and Ansible**  
+- Currently learning **GitOps and Ansible** 
 - Aspiring **Mentalist**
 
 ---
@@ -30,6 +30,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### DevOps & Infrastructure
+
+**CI/CD:** \
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
 **Containerization & Orchestration:** \
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -41,9 +46,9 @@
 
 **Observability:** \
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) \
-with Loki(Logs),Prometheus(metrics) and Tempo(tracing)
+with Loki (Logs), Prometheus (Metrics) and Tempo (Tracing)
 
-**Infrastructure as Code(IaC):** \
+**Infrastructure as Code (IaC):** \
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 
@@ -56,7 +61,6 @@ with Loki(Logs),Prometheus(metrics) and Tempo(tracing)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) \
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) \
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
